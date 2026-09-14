@@ -1,0 +1,16 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dépendances (si un jour un bundler/npm est ajouté)
+node_modules/
+
+# Build / sortie
+dist/
+build/
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.log
