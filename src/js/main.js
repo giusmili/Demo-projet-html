@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", (e)=> {
+  /* fonction principale */
   e.preventDefault();
   const bouton = document.getElementById('btn-demo');
   const compteur = document.getElementById('compteur');
